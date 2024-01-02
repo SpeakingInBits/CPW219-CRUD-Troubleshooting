@@ -2,7 +2,7 @@
 
 ## Requirements
 - VS2022 + ASP.NET and Web Development workload
-- .NET 6
+- .NET 8
 
 ## Tasks
 - Ensure all hyperlinks work
